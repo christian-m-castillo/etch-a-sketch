@@ -27,3 +27,7 @@ h1 {
   width: 17.24vmin;
   aspect-ratio: 1/1;
 }
+
+.grid-square:hover {
+  background-color: aqua;
+}
